@@ -3,7 +3,7 @@
 ### Olá, meu nome é Pamela Santos!
 
 <p align="left"> 
-  Trabalhando na Vagas<br/> Eu sou desenvolvedora front-end
+  Trabalhando na Vagas desde <b>2023</b><br/> Sou desenvolvedora front-end
 </p>
 
 <p align="left">
